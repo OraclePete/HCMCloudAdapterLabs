@@ -1,5 +1,5 @@
 # HCM Cloud Adapter Labs
-## HCM Cloud Adapter
+### HCM Cloud Adapter
 FA_R13_External_HCM
 ### SOAP Adapter
 FA_R13_External_SOAPUCM
